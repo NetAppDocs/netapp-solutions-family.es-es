@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<blocks>
+  <block id="d41d8cd98f00b204e9800998ecf8427e" category="summary"></block>
+  <block id="f201e5097d4e2c5f71ab71a8b93ff55d" category="doc">Conozca las soluciones de NetApp</block>
+  <block id="9b31511089be494faae33ad7f00fabe9" category="paragraph">Las soluciones de NetApp ofrecen un conjunto integral de recursos diseñados para abordar diversos desafíos de TI.  Cada solución reúne el contenido y las herramientas adecuadas para ayudarle a poner en funcionamiento las tecnologías de NetApp de las maneras que más le importan a su negocio.</block>
+  <block id="09a9afb592d76b3f4644a15a2e861412" category="paragraph">Las soluciones están organizadas por dominios tecnológicos.</block>
+  <block id="ea4c55be196897a16d86999f5c16d582" category="section-title">Virtualización</block>
+  <block id="bf27cfc661b87e6ce6d578e4217f23de" category="paragraph">Acceda a las integraciones de NetApp con las principales plataformas de virtualización.  Optimice la gestión, aumente la eficiencia de los recursos y optimice el rendimiento en todo su entorno.</block>
+  <block id="be1861ba3b21ec358912cffd6f779099" category="inline-link-macro">Ver soluciones de virtualización</block>
+  <block id="f48d892ecfc982fad84c689f554b9b29" category="paragraph"><block ref="6cd4a912c8ba8eee17f28fac7342dbf3" category="inline-link-macro-rx"></block> .</block>
+  <block id="16a059b6054d3de2e47b692120e5b0e5" category="section-title">Inteligencia artificial (IA)</block>
+  <block id="543603f38314a61dbbf88ecd981a842f" category="paragraph">Acelere los flujos de trabajo de aprendizaje automático y aprendizaje profundo con las soluciones de IA de NetApp.  Descubra cómo integrar el almacenamiento de NetApp con los marcos de IA más populares, optimizar las canalizaciones de datos e implementar cargas de trabajo de IA de manera eficiente.</block>
+  <block id="18eb754c24c4cc0337442d7fa2e00844" category="inline-link-macro">Ver soluciones de IA</block>
+  <block id="cbf1a99a619fb43501ade21975c58636" category="paragraph"><block ref="07a64784b50dbd18e7c80ec7c020efb0" category="inline-link-macro-rx"></block> .</block>
+  <block id="f87c0f3bcae62c197a838cbfe37abd7c" category="section-title">Nube pública e híbrida</block>
+  <block id="eb5a4cbccc3ced9ca3139eb5d922a231" category="paragraph">Implemente y administre soluciones NetApp sin problemas en infraestructuras de nube públicas, privadas e híbridas.  Explore las integraciones con los principales proveedores de la nube para permitir operaciones consistentes y movilidad de datos ágil.</block>
+  <block id="f3a084c7088b4eb8a6e25cb9a842d5cc" category="inline-link-macro">Ver soluciones en la nube</block>
+  <block id="2c0a92fc52958e51e4ea858fd584bb47" category="paragraph"><block ref="34f209942f2ecfaf9c0cfbfaf756da20" category="inline-link-macro-rx"></block> .</block>
+  <block id="ea2ef9b0d095bf991f4973633b485340" category="section-title">Bases de datos</block>
+  <block id="ed7ebe90c4d10fa1a92994d27aa2ff82" category="paragraph">Optimice el almacenamiento y el rendimiento de las bases de datos empresariales como Oracle y SQL Server.  Acceda a las mejores prácticas de respaldo, recuperación y ajuste para garantizar un soporte confiable para cargas de trabajo de misión crítica.</block>
+  <block id="599b5cbb24decd4ff75da2b98eeee1b1" category="inline-link-macro">Ver soluciones de bases de datos</block>
+  <block id="7186265899a962ac90bce5907b82b6ca" category="paragraph"><block ref="b4767f977fd28b90ffd90d51aa7acdf5" category="inline-link-macro-rx"></block> .</block>
+  <block id="e340bc103d02ce2b8e016eb60705029c" category="section-title">SAP y SAP HANA</block>
+  <block id="1820162ef653c14e82f6acc02d44eb65" category="paragraph">Explore diseños validados, técnicas de optimización del rendimiento y estrategias de protección de datos para simplificar las operaciones y maximizar el valor de sus inversiones en SAP.</block>
+  <block id="bc721cb0466c80976a72e91a3ef8d070" category="inline-link-macro">Ver soluciones SAP</block>
+  <block id="1fab45ec716ef4884f6a046a119280c5" category="paragraph"><block ref="300f9f9cbbca2bef7c5dcc12aa2c169a" category="inline-link-macro-rx"></block> .</block>
+  <block id="5382aaf8b3d2fdeb6717f9805b0dd511" category="section-title">Contenedores</block>
+  <block id="511881d2aa4d9e17cedf9da814132557" category="paragraph">Apoye aplicaciones en contenedores con soluciones de gestión de datos y almacenamiento persistente de NetApp.  Descubra estrategias de integración con plataformas de orquestación para mejorar la escalabilidad y la resiliencia.</block>
+  <block id="648c19f818c9b58a14b71f1b72dc000f" category="inline-link-macro">Ver soluciones de contenedores</block>
+  <block id="6b8d7506a2d85ad0de1d0dc740ef5e2e" category="paragraph"><block ref="8c3572dcfd8f7885a27868c89e77b17f" category="inline-link-macro-rx"></block> .</block>
+  <block id="198010d8bf8a3ff0f084ffd059a9a1da" category="section-title">Gestión de datos</block>
+  <block id="157588fb0fdd5962e733abadfeb56548" category="paragraph">Apoye plataformas de análisis a gran escala como Splunk y Apache Spark con soluciones de datos de alto rendimiento.  Descubra cómo NetApp ayuda a mantener la integridad de los datos y optimizar el rendimiento en entornos de análisis complejos.</block>
+  <block id="84e46de9ebf60e3911a422585ee71bcb" category="inline-link-macro">Ver soluciones de gestión de datos</block>
+  <block id="33d6f12b993bc7bbf091e20a1490088d" category="paragraph"><block ref="c6fda0293932d36dfc35b04dc7619789" category="inline-link-macro-rx"></block> .</block>
+  <block id="322a66d37e3b05d26eaa6f7119ff6aed" category="sidebar">Transforme su infraestructura de TI con soluciones NetApp , diseñadas para agilizar las operaciones, mejorar la gestión de la nube y optimizar el almacenamiento.  Explore las soluciones por área de interés o utilice la barra de búsqueda para encontrar contenido en cualquier parte de las soluciones de NetApp .</block>
+  <block id="0726296d7ccce528b55d80b472d02cb2" category="sidebar">Soluciones NetApp</block>
+  <block id="b1c94ca2fbc3e78fc30069c8d0f01680" category="sidebar">Todo</block>
+  <block id="caea8340e2d186a540518d08602aa065" category="sidebar">Automatización</block>
+  <block id="21a1e68164f738b8be1dae11d5a694b3" category="sidebar">Protección de datos</block>
+  <block id="407432c641358300c37673ae96305f3a" category="sidebar">DevOps</block>
+  <block id="b0dae11b82e63781abdc8f893c41b3c0" category="sidebar">Aplicaciones empresariales</block>
+  <block id="520b661a272c9e6f55f469cc9c24193d" category="sidebar">Alta disponibilidad</block>
+  <block id="35084d885dea7b061e6894c1cf3036d9" category="sidebar">Cargas de trabajo</block>
+  <block id="d9fcf5d2b3cc023cfc23c2a2a6ea65b1" category="sidebar">Obtenga más información sobre las soluciones de NetApp .</block>
+  <block id="dc6289f7398ceb74d3fd5a13a90dbca2" category="sidebar">Soluciones de virtualización</block>
+  <block id="5058cc7bdf69fdf26f0a05db1b7039f9" category="sidebar">Soluciones para ofrecer una infraestructura de datos ágil, confiable y eficiente en entornos virtualizados.</block>
+  <block id="5baf6ec1129c513e42641878b72ed0d8" category="sidebar">Soluciones de inteligencia artificial</block>
+  <block id="03a46eeb01a9e1b53eaf75cb0c7ab125" category="sidebar">Soluciones para permitir el rendimiento, la productividad y la protección de sus datos.</block>
+  <block id="9e6382832ff8059fffd7334b52b46e6a" category="sidebar">Soluciones de nube pública e híbrida</block>
+  <block id="9e35f920cd42f186b73bf65c117b486c" category="sidebar">Soluciones para simplificar la movilidad de la carga de trabajo, ofrecer rendimiento de nivel empresarial y unificar la gestión de datos en entornos locales y multicloud.</block>
+  <block id="114dd74d303c1a7a0ca71b00760474ba" category="sidebar">Soluciones de bases de datos</block>
+  <block id="66ba66996d8c189914ae46e6211d3241" category="sidebar">Soluciones para liberar todo el potencial del almacenamiento de NetApp en las principales bases de datos empresariales.</block>
+  <block id="dd14f1e79d4fcd8bf6ff2fbbddfd2216" category="sidebar">Soluciones SAP y SAP HANA</block>
+  <block id="8d4fe53f7b0532b3d4e4d7dac1fcba87" category="sidebar">Soluciones para maximizar el rendimiento y la eficiencia de sus entornos SAP y SAP HANA.</block>
+  <block id="ae05797d002b77737a10ce3d62b7521d" category="sidebar">Soluciones de contenedores</block>
+  <block id="4932dd0c0fb7706ddbd089d6e39216eb" category="sidebar">Soluciones para simplificar y escalar entornos de Kubernetes con implementaciones validadas e integración perfecta con los sistemas y software de administración de almacenamiento de NetApp .</block>
+  <block id="aeb11413825c35abdf36736cbaa541ef" category="sidebar">Soluciones de gestión de datos</block>
+  <block id="c571e150d27b8578da48b93620fb3a66" category="sidebar">Soluciones para administrar sus servicios de almacenamiento y datos, en instalaciones locales y en nubes.</block>
+</blocks>

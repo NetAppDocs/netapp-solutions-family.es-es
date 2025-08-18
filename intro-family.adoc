@@ -1,0 +1,71 @@
+---
+permalink: intro-family.html 
+keywords:  
+summary:  
+---
+= Conozca las soluciones de NetApp
+:allow-uri-read: 
+:icons: font
+:imagesdir: ./media/
+
+
+[role="lead"]
+Las soluciones de NetApp ofrecen un conjunto integral de recursos diseñados para abordar diversos desafíos de TI.  Cada solución reúne el contenido y las herramientas adecuadas para ayudarle a poner en funcionamiento las tecnologías de NetApp de las maneras que más le importan a su negocio.
+
+Las soluciones están organizadas por dominios tecnológicos.
+
+
+
+== Virtualización
+
+Acceda a las integraciones de NetApp con las principales plataformas de virtualización.  Optimice la gestión, aumente la eficiencia de los recursos y optimice el rendimiento en todo su entorno.
+
+link:https://docs.netapp.com/us-en/netapp-solutions-virtualization/["Ver soluciones de virtualización"] .
+
+
+
+== Inteligencia artificial (IA)
+
+Acelere los flujos de trabajo de aprendizaje automático y aprendizaje profundo con las soluciones de IA de NetApp.  Descubra cómo integrar el almacenamiento de NetApp con los marcos de IA más populares, optimizar las canalizaciones de datos e implementar cargas de trabajo de IA de manera eficiente.
+
+link:https://docs.netapp.com/us-en/netapp-solutions-ai/["Ver soluciones de IA"] .
+
+
+
+== Nube pública e híbrida
+
+Implemente y administre soluciones NetApp sin problemas en infraestructuras de nube públicas, privadas e híbridas.  Explore las integraciones con los principales proveedores de la nube para permitir operaciones consistentes y movilidad de datos ágil.
+
+link:https://docs.netapp.com/us-en/netapp-solutions-cloud/["Ver soluciones en la nube"] .
+
+
+
+== Bases de datos
+
+Optimice el almacenamiento y el rendimiento de las bases de datos empresariales como Oracle y SQL Server.  Acceda a las mejores prácticas de respaldo, recuperación y ajuste para garantizar un soporte confiable para cargas de trabajo de misión crítica.
+
+link:https://docs.netapp.com/us-en/netapp-solutions-databases/["Ver soluciones de bases de datos"] .
+
+
+
+== SAP y SAP HANA
+
+Explore diseños validados, técnicas de optimización del rendimiento y estrategias de protección de datos para simplificar las operaciones y maximizar el valor de sus inversiones en SAP.
+
+link:https://docs.netapp.com/us-en/netapp-solutions-sap/["Ver soluciones SAP"] .
+
+
+
+== Contenedores
+
+Apoye aplicaciones en contenedores con soluciones de gestión de datos y almacenamiento persistente de NetApp.  Descubra estrategias de integración con plataformas de orquestación para mejorar la escalabilidad y la resiliencia.
+
+link:https://docs.netapp.com/us-en/netapp-solutions-containers/["Ver soluciones de contenedores"] .
+
+
+
+== Gestión de datos
+
+Apoye plataformas de análisis a gran escala como Splunk y Apache Spark con soluciones de datos de alto rendimiento.  Descubra cómo NetApp ayuda a mantener la integridad de los datos y optimizar el rendimiento en entornos de análisis complejos.
+
+link:https://docs.netapp.com/us-en/netapp-solutions-dataops/["Ver soluciones de gestión de datos"] .
