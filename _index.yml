@@ -33,45 +33,45 @@ product-family:
     tags: all
   - title: Soluciones de virtualización
     icon: "./media/icon_virtualization_ieops-2280.png"
-    url: netapp-solutions-virtualization/
+    url: "../netapp-solutions-virtualization/index.html"
     summary: Soluciones para ofrecer una infraestructura de datos ágil, confiable
       y eficiente en entornos virtualizados.
     tags: all,automation,ha,workloads
   - title: Soluciones de inteligencia artificial
     icon: "./media/icon_artificial_intelligence_ieops-2282.png"
-    url: netapp-solutions-ai/
+    url: "../netapp-solutions-ai/index.html"
     summary: Soluciones para permitir el rendimiento, la productividad y la protección
       de sus datos.
     tags: all,automation,workloads
   - title: Soluciones de nube pública e híbrida
     icon: "./media/icon_public_hybrid_ieops-2281.png"
-    url: netapp-solutions-cloud/
+    url: "../netapp-solutions-cloud/index.html"
     summary: Soluciones para simplificar la movilidad de la carga de trabajo, ofrecer
       rendimiento de nivel empresarial y unificar la gestión de datos en entornos
       locales y multicloud.
     tags: all,ha,protection,workloads
   - title: Soluciones de bases de datos
     icon: "./media/icon_databases_ieops-2283.png"
-    url: netapp-solutions-databases/
+    url: "../netapp-solutions-databases/index.html"
     summary: Soluciones para liberar todo el potencial del almacenamiento de NetApp
       en las principales bases de datos empresariales.
     tags: all,entapps,ha,protection,workloads
   - title: Soluciones SAP y SAP HANA
     icon: "./media/icon_sap_hana_ieops-2285.png"
-    url: netapp-solutions-sap/
+    url: "../netapp-solutions-sap/index.html"
     summary: Soluciones para maximizar el rendimiento y la eficiencia de sus entornos
       SAP y SAP HANA.
     tags: all,entapps,ha,protection,workloads
   - title: Soluciones de contenedores
     icon: "./media/icon_containers_ieops-2284.png"
-    url: netapp-solutions-containers/
+    url: "../netapp-solutions-containers/index.html"
     summary: Soluciones para simplificar y escalar entornos de Kubernetes con implementaciones
       validadas e integración perfecta con los sistemas y software de administración
       de almacenamiento de NetApp .
     tags: all,automation,devops,workloads
   - title: Soluciones de gestión de datos
     icon: "./media/icon_analytics_ieops-2283.png"
-    url: netapp-solutions-dataops/
+    url: "../netapp-solutions-dataops/index.html"
     summary: Soluciones para administrar sus servicios de almacenamiento y datos,
       en instalaciones locales y en nubes.
     tags: all,automation,protection,workloads
