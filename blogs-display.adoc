@@ -25,6 +25,9 @@ Revisa los blogs a continuación que ofrecen orientación práctica y mejores pr
 | *Categoría* | *Título del blog* 
 
 
+| IA | link:https://community.netapp.com/t5/Tech-ONTAP-Blogs/NetApp-Starburst-Designing-a-Data-Lakehouse-for-AI-at-scale/ba-p/467569["NetApp + Starburst: diseño de un «data lakehouse» para la IA a gran escala"] 
+
+
 | IA | link:https://community.netapp.com/t5/Tech-ONTAP-Blogs/MCP-vs-Agent-Skills-What-are-the-differences-and-why-do-they-matter-for-NetApp/ba-p/467508["MCP vs. habilidades de agente: ¿cuáles son las diferencias y por qué importan para NetApp?"] 
 
 
@@ -216,6 +219,9 @@ Revisa los blogs a continuación que ofrecen orientación práctica y mejores pr
 [cols="20%, 80%"]
 |===
 | *Categoría* | *Título del blog* 
+
+
+| IA | link:https://community.netapp.com/t5/Tech-ONTAP-Blogs/NetApp-Starburst-Designing-a-Data-Lakehouse-for-AI-at-scale/ba-p/467569["NetApp + Starburst: diseño de un «data lakehouse» para la IA a gran escala"] 
 
 
 | IA | link:https://community.netapp.com/t5/Tech-ONTAP-Blogs/MCP-vs-Agent-Skills-What-are-the-differences-and-why-do-they-matter-for-NetApp/ba-p/467508["MCP vs. habilidades de agente: ¿cuáles son las diferencias y por qué importan para NetApp?"] 
