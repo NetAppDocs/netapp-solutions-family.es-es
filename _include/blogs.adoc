@@ -7,6 +7,9 @@
 | *Categoría* | *Título del blog* 
 
 
+| IA | link:https://community.netapp.com/t5/Tech-ONTAP-Blogs/KV-cache-offloading-tuning-for-long-context/ba-p/467594["Ajuste de la descarga de la caché KV para contextos largos"] 
+
+
 | IA | link:https://community.netapp.com/t5/Tech-ONTAP-Blogs/NetApp-Starburst-Designing-a-Data-Lakehouse-for-AI-at-scale/ba-p/467569["NetApp + Starburst: diseño de un «data lakehouse» para la IA a gran escala"] 
 
 
