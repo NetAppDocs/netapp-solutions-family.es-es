@@ -25,6 +25,9 @@ Revisa los blogs a continuación que ofrecen orientación práctica y mejores pr
 | *Categoría* | *Título del blog* 
 
 
+| IA | link:https://community.netapp.com/community/discussion/468325/comparing-kv-cache-offloading-frameworks-for-vllm["Comparación de marcos de descarga de caché KV para vLLM"] 
+
+
 | Plataforma de datos | link:https://community.netapp.com/t5/Tech-ONTAP-Blogs/Architecting-an-Enterprise-Backup-and-Disaster-Recovery-for-Cloudera-with-NetApp/ba-p/467801["Arquitectura de una solución empresarial de backup y recuperación ante desastres para Cloudera con NetApp"] 
 
 
@@ -103,7 +106,7 @@ Revisa los blogs a continuación que ofrecen orientación práctica y mejores pr
 | Virtualización | link:https://community.netapp.com/t5/Tech-ONTAP-Blogs/NetApp-and-VMware-Better-than-ever/ba-p/445780["NetApp y VMware – Mejor que nunca"] 
 
 
-| IA | link:++https://www.netapp.com/blog/#t=Blogs&sort=%40publish_date_mktg%20descending&layout=card&f:@facet_language_mktg=["Inglés"]&f:@facet_soultion_mktg=[AI,Analytics,artificial-intelligence]++[blogs sobre AI en NetApp.com] 
+| IA | link:https://www.netapp.com/blog/#q=AI&t=Blogs&sort=%40publish_date_mktg%20descending&layout=card&f:@language=English["Blogs sobre IA en NetApp.com"] 
 
 
 | IA | link:https://netapp.io/category/ai-ml/["Blogs de IA en thePub"] 
@@ -227,6 +230,9 @@ Revisa los blogs a continuación que ofrecen orientación práctica y mejores pr
 | *Categoría* | *Título del blog* 
 
 
+| IA | link:https://community.netapp.com/community/discussion/468325/comparing-kv-cache-offloading-frameworks-for-vllm["Comparación de marcos de descarga de caché KV para vLLM"] 
+
+
 | IA | link:https://community.netapp.com/t5/Tech-ONTAP-Blogs/KV-cache-offloading-tuning-for-long-context/ba-p/467594["Ajuste de la descarga de la caché KV para contextos largos"] 
 
 
@@ -266,7 +272,7 @@ Revisa los blogs a continuación que ofrecen orientación práctica y mejores pr
 | IA | link:https://community.netapp.com/t5/Tech-ONTAP-Blogs/KV-cache-offloading-exploring-the-benefits-of-shared-storage/ba-p/465230["Descarga de caché KV - explorando los beneficios del almacenamiento compartido"] 
 
 
-| IA | link:++https://www.netapp.com/blog/#t=Blogs&sort=%40publish_date_mktg%20descending&layout=card&f:@facet_language_mktg=["Inglés"]&f:@facet_soultion_mktg=[AI,Analytics,artificial-intelligence]++[blogs sobre AI en NetApp.com] 
+| IA | link:https://www.netapp.com/blog/#q=AI&t=Blogs&sort=%40publish_date_mktg%20descending&layout=card&f:@language=English["Blogs sobre IA en NetApp.com"] 
 
 
 | IA | link:https://netapp.io/category/ai-ml/["Blogs de IA en thePub"] 
